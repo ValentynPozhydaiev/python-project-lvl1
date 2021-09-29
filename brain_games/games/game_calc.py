@@ -6,7 +6,7 @@ from random import choice, randint
 def game_calc_logic():
     """Provide the puzzle and the answer.
 
-    Argiments:
+    Arguments:
         No input required.
 
     Returns:
