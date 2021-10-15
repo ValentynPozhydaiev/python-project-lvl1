@@ -1,8 +1,10 @@
 [tool.poetry]
 name = "hexlet-code"
-version = "0.6.0"
-description = ""
-authors = ["Valentyn <overclocker98@gmail.com>"]
+version = "1.0.0"
+description = "The set of five simple numerical puzzle games."
+classifiers = ["Topic :: Games/Entertainment :: Puzzle Games"]
+repository = "https://github.com/ValentynPozhydaiev/python-project-lvl1"
+authors = ["Valentyn Pozhydaiev <overclocker98@gmail.com>"]
 packages = [
 { include = "brain_games" },
 ]
